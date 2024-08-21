@@ -8,20 +8,23 @@ Transmitter Faceplate:
 
 ![Screenshot 2024-07-26 041702](https://github.com/user-attachments/assets/17ecbf75-b88f-4947-83d3-1fb96b139cf3)
 
-Using the button in the corner right below of the faceplate, operatot can swith between Normal and Tuning Mode.
+Using the button in the corner right below the faceplate, the operator can switch between Normal and Tuning Mode.
 PV: Process Value
-HH:HighHigh Switch Value
-PH:High Switch Value
-PL:Low Switch Value
-LL:LowLow Switch Value
-If process Value reach to every switch value, the H,HH,L,LL text will appear in the Faceplate.
+HH: HighHigh Switch Value
+PH: High Switch Value
+PL: Low Switch Value
+LL: LowLow Switch Value
+If the process Value reaches every switch value, the H, HH, L, and LL text will appear in the Faceplate.
 
-Using Cal button the operator can caliberate transmitter in a specified value.
+The operator can calibrate the transmitter using the Cal button to a specified value.
 
 Pump/Motor Faceplate:
 
 
 ![Screenshot 2024-07-26 042544](https://github.com/user-attachments/assets/301db56b-44e1-4d96-b2d6-1e0bb24b9d76)
+
+
+
 
 
 PID Faceplate:
