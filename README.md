@@ -38,5 +38,4 @@ PID Faceplate:
 ![Screenshot 2024-07-26 043948](https://github.com/user-attachments/assets/e4754aca-da25-441f-a7d0-1b284b151c11)
 
 
-
-
+in the PID faceplate user can read PV, SV, MV, and the status of loop(Man/Auto). The status of the loop can change using the button below the faceplate and the PID coefficients can be changed in tuning mode while a trend will show PV, MV, and SV values.
