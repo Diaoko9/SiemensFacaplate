@@ -1,5 +1,5 @@
 # SiemensFacaplate
-in this repo I will upload Faceplates which I have designed and used in real projects
+in this repo, I will upload Faceplates that I have designed and used in real projects
 
 Transmitter Faceplate:
 
@@ -24,7 +24,7 @@ Pump/Motor Faceplate:
 ![Screenshot 2024-07-26 042544](https://github.com/user-attachments/assets/301db56b-44e1-4d96-b2d6-1e0bb24b9d76)
 
 
-
+the black space in the faceplate shows the status of the Pump: Start, Stop, and Fault(Electrical). The start and Stop buttons will Energize or de-energize the Pump while the ribbon above the Start button will show the status of the Start action.
 
 
 PID Faceplate:
